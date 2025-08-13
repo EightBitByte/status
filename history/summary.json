@@ -4,19 +4,19 @@
     "url": "https://www.jacobmoy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jacobmoy.com.ico",
     "slug": "portfolio-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 630,
-    "timeWeek": 365,
-    "timeMonth": 293,
-    "timeYear": 303,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
+    "time": 302,
+    "timeDay": 503,
+    "timeWeek": 352,
+    "timeMonth": 291,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 35
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://blog.jacobmoy.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jacobmoy.com.ico",
     "slug": "blog-website",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.54%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.96%",
     "time": 283,
-    "timeDay": 358,
+    "timeDay": 331,
     "timeWeek": 274,
-    "timeMonth": 285,
+    "timeMonth": 284,
     "timeYear": 283,
     "dailyMinutesDown": {
-      "2025-08-13": 0
+      "2025-08-13": 35
     }
   }
 ]
