@@ -4,8 +4,6 @@ repo: status
 sites:
   - name: Portfolio Website
     url: https://www.jacobmoy.com
-  - name: Staging Website
-    url: https://staging.jacobmoy.com
 
 status-website:
   baseUrl: /status
