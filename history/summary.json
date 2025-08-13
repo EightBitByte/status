@@ -4,35 +4,39 @@
     "url": "https://www.jacobmoy.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.jacobmoy.com.ico",
     "slug": "portfolio-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 426,
-    "timeWeek": 298,
-    "timeMonth": 275,
-    "timeYear": 296,
-    "dailyMinutesDown": {}
+    "time": 303,
+    "timeDay": 630,
+    "timeWeek": 365,
+    "timeMonth": 293,
+    "timeYear": 303,
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   },
   {
     "name": "Blog Website",
     "url": "https://blog.jacobmoy.com",
     "icon": "https://icons.duckduckgo.com/ip3/blog.jacobmoy.com.ico",
     "slug": "blog-website",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 282,
-    "timeDay": 320,
-    "timeWeek": 256,
-    "timeMonth": 281,
-    "timeYear": 282,
-    "dailyMinutesDown": {}
+    "time": 283,
+    "timeDay": 358,
+    "timeWeek": 274,
+    "timeMonth": 285,
+    "timeYear": 283,
+    "dailyMinutesDown": {
+      "2025-08-13": 0
+    }
   }
 ]
