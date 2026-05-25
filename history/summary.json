@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.jacobmoy.com.ico",
     "slug": "portfolio-website",
     "status": "up",
-    "uptime": "97.06%",
+    "uptime": "97.07%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.06%",
-    "time": 445,
-    "timeDay": 425,
-    "timeWeek": 633,
-    "timeMonth": 609,
-    "timeYear": 445,
+    "uptimeYear": "97.07%",
+    "time": 446,
+    "timeDay": 553,
+    "timeWeek": 631,
+    "timeMonth": 595,
+    "timeYear": 446,
     "dailyMinutesDown": {
       "2025-08-13": 35,
       "2025-11-18": 161,
@@ -33,5 +33,23 @@
       "2026-01-07": 672,
       "2026-02-02": 48
     }
+  },
+  {
+    "name": "Deadlock Tier List Site",
+    "url": "https://deadlock.jacobmoy.com",
+    "icon": "https://icons.duckduckgo.com/ip3/deadlock.jacobmoy.com.ico",
+    "slug": "deadlock-tier-list-site",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1446,
+    "timeDay": 1446,
+    "timeWeek": 1446,
+    "timeMonth": 1446,
+    "timeYear": 1446,
+    "dailyMinutesDown": {}
   }
 ]
