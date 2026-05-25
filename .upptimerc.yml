@@ -4,6 +4,8 @@ repo: status
 sites:
   - name: Portfolio Website
     url: https://www.jacobmoy.com
+  - name: Deadlock Tier List Site
+    url: https://deadlock.jacobmoy.com
 
 status-website:
   baseUrl: /status
